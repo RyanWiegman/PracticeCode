@@ -1,5 +1,9 @@
 # Files
 .vscode
+.class
+.sln
 
 # Folders 
 bin/
+obj/
+.vs/
