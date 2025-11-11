@@ -1,8 +1,9 @@
 using System.Diagnostics;
+using Data;
 using Microsoft.AspNetCore.Mvc;
-using StudentManagement.Models;
+using MVC.Models;
 
-namespace StudentManagement.Controllers;
+namespace MVC.Controllers;
 
 public class HomeController : Controller
 {
@@ -15,6 +16,8 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        Class1 class1 = new Class1();
+        Console.WriteLine($"Name: {class1.Name}");
         return View();
     }
 
