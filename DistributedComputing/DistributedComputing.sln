@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedComputing", "DistributedComputing.csproj", "{288195D3-38A7-67BD-573D-74C7984883F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{288195D3-38A7-67BD-573D-74C7984883F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288195D3-38A7-67BD-573D-74C7984883F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288195D3-38A7-67BD-573D-74C7984883F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288195D3-38A7-67BD-573D-74C7984883F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC49F570-FAA0-4072-B439-16067E4F7C2B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,340 @@
+File: sales_data_2.csv
+Region:	Total Sales:
+------------------------
+West	1.0606603E+09
+East	1.0584356E+09
+North	1.0593117E+09
+South	1.0578395E+09
+------------------------
+
+File: sales_data_2.csv
+Category:	Total Sales:
+------------------------
+Stationery	11703876
+Electronics	3.2588872E+09
+Office Supplies	201636450
+Furniture	765324500
+------------------------
+
+File: sales_data_2.csv
+Product:	Total Sales:
+------------------------
+Highlighter	3096551
+Laptop	2.310123E+09
+Monitor	388498980
+Pen	2091715.5
+Mouse	39021216
+Whiteboard	154762500
+Printer	520418460
+Notebook	6515672.5
+Desk Chair	195219650
+Office Desk	570132860
+Desk Lamp	46879970
+------------------------
+
+File: sales_data_5.csv
+Region:	Total Sales:
+------------------------
+West	1.162509E+09
+East	1.157047E+09
+North	1.1708033E+09
+South	1.1683686E+09
+------------------------
+
+File: sales_data_5.csv
+Category:	Total Sales:
+------------------------
+Electronics	3.5808914E+09
+Stationery	12844832
+Furniture	844322800
+Office Supplies	222577060
+------------------------
+
+File: sales_data_5.csv
+Product:	Total Sales:
+------------------------
+Mouse	42661630
+Laptop	2.5417167E+09
+Monitor	427827740
+Notebook	7133692.5
+Office Desk	630393800
+Desk Chair	213951040
+Desk Lamp	51323904
+Printer	567750140
+Whiteboard	171259040
+Highlighter	3426090
+Pen	2285381.5
+------------------------
+
+File: sales_data_4.csv
+Region:	Total Sales:
+------------------------
+West	1.2170771E+09
+East	1.211096E+09
+North	1.2037183E+09
+South	1.2087145E+09
+------------------------
+
+File: sales_data_8.csv
+Region:	Total Sales:
+------------------------
+West	1.1129379E+09
+East	1.1096604E+09
+North	1.1148596E+09
+South	1.119908E+09
+------------------------
+
+File: sales_data_4.csv
+Category:	Total Sales:
+------------------------
+Electronics	3.7303263E+09
+Stationery	13203421
+Furniture	869364900
+Office Supplies	229866340
+------------------------
+
+File: sales_data_4.csv
+Product:	Total Sales:
+------------------------
+Mouse	44029100
+Monitor	444574530
+Pen	2357039.5
+Desk Chair	221210900
+Office Desk	648179000
+Laptop	2.6532662E+09
+Notebook	7337785
+Desk Lamp	53131520
+Printer	587493000
+Whiteboard	176739740
+Highlighter	3508601.2
+------------------------
+
+File: sales_data_8.csv
+Category:	Total Sales:
+------------------------
+Electronics	3.430255E+09
+Office Supplies	212294600
+Stationery	12278548
+Furniture	804167940
+------------------------
+
+File: sales_data_8.csv
+Product:	Total Sales:
+------------------------
+Monitor	407593800
+Desk Lamp	49323260
+Highlighter	3275815.5
+Mouse	40600250
+Printer	540080200
+Desk Chair	202996240
+Whiteboard	162977220
+Office Desk	601196350
+Notebook	6827280
+Pen	2175753.8
+Laptop	2.441092E+09
+------------------------
+
+File: sales_data_9.csv
+Region:	Total Sales:
+------------------------
+West	1.2593165E+09
+East	1.2591178E+09
+North	1.2538587E+09
+South	1.2566506E+09
+------------------------
+
+File: sales_data_9.csv
+Category:	Total Sales:
+------------------------
+Electronics	3.879668E+09
+Stationery	13819618
+Furniture	898860860
+Office Supplies	239051800
+------------------------
+
+File: sales_data_1.csv
+Category:	Total Sales:
+------------------------
+Office Supplies	238518430
+Furniture	899835700
+Stationery	13759444
+Electronics	3.8600778E+09
+------------------------
+
+File: sales_data_3.csv
+Category:	Total Sales:
+------------------------
+Electronics	3.9727913E+09
+Office Supplies	245278670
+Stationery	14122988
+Furniture	930110460
+------------------------
+
+File: sales_data_10.csv
+Category:	Total Sales:
+------------------------
+Stationery	14078187
+Electronics	3.9762793E+09
+Office Supplies	244701940
+Furniture	926731500
+------------------------
+
+File: sales_data_9.csv
+Product:	Total Sales:
+------------------------
+Mouse	46025190
+Laptop	2.7633142E+09
+Pen	2436817.2
+Office Desk	670177660
+Printer	609773400
+Whiteboard	183758370
+Monitor	459558720
+Desk Lamp	55300000
+Highlighter	3691733.2
+Desk Chair	228703340
+Notebook	7691217.5
+------------------------
+
+File: sales_data_3.csv
+Region:	Total Sales:
+------------------------
+West	1.2883721E+09
+East	1.2866637E+09
+North	1.2941847E+09
+South	1.2903791E+09
+------------------------
+
+File: sales_data_6.csv
+Region:	Total Sales:
+------------------------
+West	1.3130994E+09
+East	1.310578E+09
+North	1.3122856E+09
+South	1.3086739E+09
+------------------------
+
+File: sales_data_6.csv
+Category:	Total Sales:
+------------------------
+Furniture	945979700
+Office Supplies	248430990
+Electronics	4.0386972E+09
+Stationery	14393965
+------------------------
+
+File: sales_data_10.csv
+Region:	Total Sales:
+------------------------
+West	1.2905366E+09
+East	1.2869276E+09
+North	1.2998286E+09
+South	1.2818199E+09
+------------------------
+
+File: sales_data_6.csv
+Product:	Total Sales:
+------------------------
+Desk Chair	239840210
+Whiteboard	190847740
+Mouse	48127444
+Highlighter	3821433.2
+Pen	2574012
+Notebook	7998710
+Office Desk	706151360
+Monitor	480355740
+Printer	638568770
+Desk Lamp	57591864
+Laptop	2.870522E+09
+------------------------
+
+File: sales_data_1.csv
+Region:	Total Sales:
+------------------------
+West	1.2525133E+09
+East	1.2489619E+09
+North	1.2489161E+09
+South	1.2594627E+09
+------------------------
+
+File: sales_data_3.csv
+Product:	Total Sales:
+------------------------
+Monitor	470683780
+Desk Lamp	56617084
+Laptop	2.8271055E+09
+Highlighter	3752363
+Pen	2505866.2
+Whiteboard	188668050
+Printer	626552400
+Desk Chair	236509260
+Office Desk	693615400
+Notebook	7865052.5
+Mouse	47362690
+------------------------
+
+File: sales_data_1.csv
+Product:	Total Sales:
+------------------------
+Whiteboard	183731650
+Office Desk	670196860
+Desk Chair	229652690
+Pen	2444762.2
+Printer	602822300
+Highlighter	3676656.2
+Monitor	457630600
+Laptop	2.7528374E+09
+Notebook	7638172.5
+Desk Lamp	54792880
+Mouse	45817150
+------------------------
+
+File: sales_data_10.csv
+Product:	Total Sales:
+------------------------
+Highlighter	3761148
+Printer	627359800
+Monitor	469572670
+Desk Lamp	56356240
+Desk Chair	234334940
+Mouse	47190464
+Office Desk	692403260
+Whiteboard	188355170
+Pen	2490217.8
+Laptop	2.8310894E+09
+Notebook	7826787.5
+------------------------
+
+File: sales_data_7.csv
+Region:	Total Sales:
+------------------------
+West	1.341469E+09
+East	1.3405967E+09
+North	1.3270711E+09
+South	1.3474774E+09
+------------------------
+
+File: sales_data_7.csv
+Product:	Total Sales:
+------------------------
+Pen	2613569.2
+Printer	649018300
+Mouse	48988244
+Highlighter	3933445.2
+Office Desk	717060860
+Desk Lamp	59025060
+Notebook	8160820
+Whiteboard	194662830
+Monitor	488554200
+Laptop	2.941125E+09
+Desk Chair	245337470
+------------------------
+
+File: sales_data_7.csv
+Category:	Total Sales:
+------------------------
+Stationery	14707915
+Electronics	4.1288102E+09
+Furniture	962379970
+Office Supplies	253683150
+------------------------
+
